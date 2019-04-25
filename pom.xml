@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <modules>
-    <module>war-app</module>
     <module>jar-app</module>
+    <module>war-app</module>
   </modules>
 </project>
