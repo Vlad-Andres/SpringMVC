@@ -8,7 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class SelfControler {
 
-	String message = "Welcome to Spring MVC!";
+	String message = "Welcome to Spring MVC AND FROM WA WA <h1>WAR</h1>!";
 	
 	@RequestMapping("/testing")
 	public ModelAndView helloWorld(

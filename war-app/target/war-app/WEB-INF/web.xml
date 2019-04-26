@@ -25,7 +25,7 @@
      <load-on-startup>1</load-on-startup>
    </servlet>
     <servlet-mapping>
-        <servlet-name>testing</servlet-name> 
+        <servlet-name>testing2</servlet-name> 
         <url-pattern>/</url-pattern>      
     </servlet-mapping>
     

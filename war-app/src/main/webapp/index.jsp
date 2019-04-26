@@ -18,8 +18,14 @@ body {
 			Hey You..!! This is your 1st Spring MCV Tutorial..<br> <br>
 		</h2>
 		<h3>
-			<a href="testing?name=Erica">Click here to See Welcome Message... </a>(to
+			<a href="testing">Click here to See Welcome Message... </a>(to
 			check Spring MVC Controller... @RequestMapping("/welcome"))
+			
+			<form action="testing" method="post">
+				<input type="text" name="name" />
+				<input type="submit" value="submit"/>
+			</form>
+			
 		</h3>
 	</div>
 </body>

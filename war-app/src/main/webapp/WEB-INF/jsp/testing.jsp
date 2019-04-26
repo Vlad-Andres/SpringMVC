@@ -12,5 +12,8 @@
 			${message} ${name}
 		</h2>
 	</center>
+	<a href="logging">
+		<button>Proceed to logging</button>
+	</a>
 </body>
 </html>

@@ -1,0 +1,2 @@
+INFO    2019-04-26 11:35:57,665 [http-bio-8080-exec-3] cf.flymengo.LoggingController  - This Is An Info Log Entry ......!
+ERROR   2019-04-26 11:35:57,675 [http-bio-8080-exec-3] cf.flymengo.LoggingController  - This Is An Error Log Entry ......!
