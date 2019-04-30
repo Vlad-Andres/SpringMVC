@@ -15,5 +15,9 @@
 	<a href="logging">
 		<button>Proceed to logging</button>
 	</a>
+	<br>
+	<a href="login">
+		<button>Log In </button>
+	</a>
 </body>
 </html>

@@ -12,8 +12,7 @@ public class SelfControler {
 	
 	@RequestMapping("/testing")
 	public ModelAndView helloWorld(
-			@RequestParam(value = "name", required = false, defaultValue = "World") String name) 
-	
+			@RequestParam(value = "name", required = false, defaultValue = "World") String name ) 
 	{
 	
 		ModelAndView mv = new ModelAndView("testing");
